@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\bin\Debug\net6.0\Sesion5CSharp.exe
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\bin\Debug\net6.0\Sesion5CSharp.deps.json
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\bin\Debug\net6.0\Sesion5CSharp.runtimeconfig.json
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\bin\Debug\net6.0\Sesion5CSharp.dll
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\bin\Debug\net6.0\Sesion5CSharp.pdb
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.dll
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\refint\Sesion5CSharp.dll
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.pdb
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\Sesion5CSharp.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CursoC#\Sesion5CSharp\obj\Debug\net6.0\ref\Sesion5CSharp.dll
